@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { FaDollarSign, FaCalendarAlt, FaUser, FaCreditCard, FaNetworkWired } from 'react-icons/fa'
 
-const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:8000'
+const API_BASE = import.meta.env.VITE_API_BASE || 'https://telelco-churn-predictor.onrender.com'
 
 const Input = ({ icon, ...props }) => (
   <div className="flex items-center border border-slate-700 rounded-2xl bg-slate-900/60 px-3 py-2 focus-within:ring-2 focus-within:ring-indigo-500">
