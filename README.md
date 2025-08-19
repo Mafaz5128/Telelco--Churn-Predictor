@@ -8,6 +8,11 @@ The project is also containerized with **Docker** for deployment and can be easi
 
 ---
 
+## Live Demo
+🔗 [Click here to try the live app](https://telelco-churn-predictor-1.onrender.com/)
+
+---
+
 ## Features
 - Predicts customer churn based on input features.
 - User-friendly web interface built with React and TailwindCSS.
