@@ -13,7 +13,6 @@ The project is also containerized with **Docker** for deployment and can be easi
 
 ![Churn](https://github.com/user-attachments/assets/2ea4518e-b896-4d35-8079-bc3a596018ef)
 
-
 ---
 
 ## Dashboard
