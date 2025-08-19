@@ -1,37 +1,33 @@
-# 📊 Telecom Churn Predictor
+# Telecom Churn Predictor
 
-A web-based application that predicts **customer churn** in the telecom industry using **machine learning**.  
-The project is built with:
+## Project Description
+This project is a **machine learning web application** that predicts whether a telecom customer is likely to **churn** (leave the service) or **stay**.  
+It integrates a **FastAPI backend** with a trained ML model and a **React frontend** for user interaction. The system allows telecom operators to quickly assess customer churn risk and take preventive measures.  
 
-- ⚡ **FastAPI** → Backend (API for ML model)  
-- 🎨 **React + TailwindCSS** → Frontend (UI)  
-- 🤖 **Scikit-learn / Pickle** → Machine Learning Model  
-- 🐳 **Docker** → Deployment  
-- 🚀 **Render** → Hosting  
+The project is also containerized with **Docker** for deployment and can be easily hosted on platforms such as **Render**.  
 
 ---
 
-## ✨ Features
-- Predict whether a telecom customer is likely to churn or stay.
-- Simple and modern **React UI** with TailwindCSS.
-- **FastAPI backend** serving the ML model.
-- Containerized with **Docker** for easy deployment.
-- Ready-to-deploy on **Render / any cloud service**.
+## Features
+- Predicts customer churn based on input features.
+- User-friendly web interface built with React and TailwindCSS.
+- FastAPI backend serving the machine learning model.
+- Containerized deployment using Docker.
+- Cloud-ready and deployable on Render or any similar platform.
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Frontend**: React, Vite, TailwindCSS, Lucide Icons  
-- **Backend**: FastAPI, Python 3.10+, Pickle  
-- **Machine Learning**: Scikit-learn  
+## Tech Stack
+- **Frontend**: React, Vite, TailwindCSS  
+- **Backend**: FastAPI, Python 3.10+  
+- **Machine Learning**: Scikit-learn, Pickle  
 - **Deployment**: Docker, Render  
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
-### 1️⃣ Clone Repository
+### 1. Clone Repository
 ```bash
 git clone https://github.com/your-username/telecom-churn-predictor.git
 cd telecom-churn-predictor
