@@ -13,6 +13,16 @@ The project is also containerized with **Docker** for deployment and can be easi
 
 ---
 
+## Dashboard
+The web app includes a **Churn Analytics Dashboard**
+
+- **Embedded PDF/Reports**: Displays analytics reports for easy visualization.
+
+> **Note:** For full interactivity, access the live app:  
+[Telecom Churn Predictor Dashboard](https://telelco-churn-predictor-1.onrender.com/)
+
+---
+
 ## Features
 - Predicts customer churn based on input features.
 - User-friendly web interface built with React and TailwindCSS.
