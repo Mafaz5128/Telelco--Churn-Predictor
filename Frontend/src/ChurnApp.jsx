@@ -5,7 +5,7 @@ import {
 } from 'react-icons/fi'
 import { FaChartLine, FaChartPie } from 'react-icons/fa'
 
-const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:8000'
+const API_BASE = import.meta.env.VITE_API_BASE || 'https://telelco-churn-predictor.onrender.com'
 
 // Styled Input Component
 const Input = ({ icon, label, ...props }) => (
